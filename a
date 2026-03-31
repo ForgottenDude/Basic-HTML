@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<meta name="description" content="I hope I did it right">
+    <title>what should be the Title?</title>
+</head>
+<body>
+
+	<nav>
+    <a href="index.html">Home</a> |
+    <a href="projects.html">Projects</a> |
+    <a href="articles.html">Articles</a> |
+    <a href="contact.html">Contact</a>
+</nav>
+
+    <h1>Hello, world!</h1>
+    <p>Hello, world!</p>
+<section>
+	<h2>Project</h2>
+
+<article>
+    <h3>Project</h3>
+    <p>I'm trying.</p>
+    <a href="#">View Project</a>
+</article>
+</section>
+<section>
+	<h2>Articles</h2>
+
+<article>
+    <h3>Article</h3>
+    <p>is this it?</p>
+    <a href="article1.html">Read more</a>
+</article>
+</section>
+
+</body>
+</html>
